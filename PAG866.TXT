@@ -1,4 +1,3 @@
-//segundo cambio melissa
 OBJECT Page 866 Cash Flow Availability Lines
 {
   OBJECT-PROPERTIES
