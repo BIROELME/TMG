@@ -12,6 +12,7 @@ OBJECT Page 862 Cash Flow Account Card
                ESP=Ficha de cuenta de flujo de efectivo];
     SourceTable=Table841;
     PageType=Card;
+    ////Melissa///
     ActionList=ACTIONS
     {
       { 1900000003;0 ;ActionContainer;
