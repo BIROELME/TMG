@@ -15,6 +15,7 @@ OBJECT Page 863 CF Entries Dim. Matrix
     InsertAllowed=No;
     DeleteAllowed=No;
     LinksAllowed=No;
+    //primer cambio melissa
     SourceTable=Table847;
     DataCaptionExpr=GetCaption;
     PageType=List;
