@@ -19,7 +19,7 @@ OBJECT Page 862 Cash Flow Account Card
                       ActionContainerType=RelatedInformation }
       { 1024    ;1   ;ActionGroup;
                       CaptionML=[ENU=A&ccount;
-                                 ESP=&Cuenta];
+                                 ESP=&Cuenta de Melissa];
                       Image=ChartOfAccounts }
       { 1026    ;2   ;Action    ;
                       ShortCutKey=Ctrl+F7;
