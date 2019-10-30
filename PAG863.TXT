@@ -1,3 +1,4 @@
+TXUS
 OBJECT Page 863 CF Entries Dim. Matrix
 {
   OBJECT-PROPERTIES
@@ -10,7 +11,7 @@ OBJECT Page 863 CF Entries Dim. Matrix
   {
     Editable=No;
     CaptionML=[ENU=CF Forcst. Entries Dim. Overv. M.;
-               ESP=M. panorama dim. movs. previsi¢n CONF];
+               ESP=M. panorama dim. movs. previsiÂ¢n CONF];
     InsertAllowed=No;
     DeleteAllowed=No;
     LinksAllowed=No;
@@ -122,7 +123,7 @@ OBJECT Page 863 CF Entries Dim. Matrix
                       CaptionML=[ENU=Dimensions;
                                  ESP=Dimensiones];
                       ToolTipML=[ENU=View or edit dimensions, such as area, project, or department, that you can assign to sales and purchase documents to distribute costs and analyze transaction history.;
-                                 ESP=Permite ver o editar dimensiones, como el  rea, el proyecto o el departamento, que pueden asignarse a los documentos de venta y compra para distribuir costes y analizar el historial de transacciones.];
+                                 ESP=Permite ver o editar dimensiones, como el Â rea, el proyecto o el departamento, que pueden asignarse a los documentos de venta y compra para distribuir costes y analizar el historial de transacciones.];
                       ApplicationArea=#Dimensions;
                       Image=Dimensions;
                       OnAction=BEGIN
@@ -148,37 +149,37 @@ OBJECT Page 863 CF Entries Dim. Matrix
 
     { 1004;2   ;Field     ;
                 ToolTipML=[ENU=Specifies the document that represents the forecast entry.;
-                           ESP=Especifica el documento que representa el movimiento de previsi¢n.];
+                           ESP=Especifica el documento que representa el movimiento de previsiÂ¢n.];
                 ApplicationArea=#Suite;
                 SourceExpr="Document No." }
 
     { 1006;2   ;Field     ;
                 ToolTipML=[ENU=Specifies a number for the cash flow forecast.;
-                           ESP=Especifica un n£mero para la previsi¢n de flujo de efectivo.];
+                           ESP=Especifica un nÂ£mero para la previsiÂ¢n de flujo de efectivo.];
                 ApplicationArea=#Suite;
                 SourceExpr="Cash Flow Forecast No." }
 
     { 1008;2   ;Field     ;
                 ToolTipML=[ENU=Specifies the number of the cash flow account that the forecast entry is posted to.;
-                           ESP=Especifica el n£mero de la cuenta de flujo de efectivo en la que se registra el movimiento de previsi¢n.];
+                           ESP=Especifica el nÂ£mero de la cuenta de flujo de efectivo en la que se registra el movimiento de previsiÂ¢n.];
                 ApplicationArea=#Suite;
                 SourceExpr="Cash Flow Account No." }
 
     { 1010;2   ;Field     ;
                 ToolTipML=[ENU=Specifies a description of the cash flow forecast.;
-                           ESP=Especifica una descripci¢n de la previsi¢n de flujo de efectivo.];
+                           ESP=Especifica una descripciÂ¢n de la previsiÂ¢n de flujo de efectivo.];
                 ApplicationArea=#Suite;
                 SourceExpr=Description }
 
     { 1012;2   ;Field     ;
                 ToolTipML=[ENU=Specifies the amount of the worksheet line in LCY. Revenues are entered without a plus or minus sign. Expenses are entered with a minus sign.;
-                           ESP=Especifica el importe de la l¡nea de hoja de trabajo en la divisa local. Los ingresos se introducen con los signos m s o menos. Los gastos se introducen con el signo menos.];
+                           ESP=Especifica el importe de la lÂ¡nea de hoja de trabajo en la divisa local. Los ingresos se introducen con los signos mÂ s o menos. Los gastos se introducen con el signo menos.];
                 ApplicationArea=#Suite;
                 SourceExpr="Amount (LCY)" }
 
     { 1014;2   ;Field     ;
                 ToolTipML=[ENU=Specifies the number of the entry, as assigned from the specified number series when the entry was created.;
-                           ESP=Especifica el n£mero del movimiento, tal como se asign¢ desde la serie num‚rica especificada cuando se cre¢ el movimiento.];
+                           ESP=Especifica el nÂ£mero del movimiento, tal como se asignÂ¢ desde la serie numâ€šrica especificada cuando se creÂ¢ el movimiento.];
                 ApplicationArea=#Suite;
                 SourceExpr="Entry No." }
 
