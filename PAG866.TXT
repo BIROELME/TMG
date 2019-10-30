@@ -1,3 +1,4 @@
+//segundo cambio melissa
 OBJECT Page 866 Cash Flow Availability Lines
 {
   OBJECT-PROPERTIES
@@ -9,7 +10,7 @@ OBJECT Page 866 Cash Flow Availability Lines
   PROPERTIES
   {
     CaptionML=[ENU=Lines;
-               ESP=L¡neas];
+               ESP=LÂ¡neas];
     SourceTable=Table2000000007;
     PageType=ListPart;
     OnOpenPage=BEGIN
@@ -56,7 +57,7 @@ OBJECT Page 866 Cash Flow Availability Lines
 
     { 1001;2   ;Field     ;
                 ToolTipML=[ENU=Specifies on which date the period starts, such as the first day of March, if the period is Month.;
-                           ESP=Especifica en qu‚ fecha comienza el periodo, como el primer d¡a de marzo si el periodo es Mes.];
+                           ESP=Especifica en quâ€š fecha comienza el periodo, como el primer dÂ¡a de marzo si el periodo es Mes.];
                 ApplicationArea=#Basic,#Suite;
                 SourceExpr="Period Start" }
 
