@@ -1,3 +1,4 @@
+TXUS
 OBJECT Page 860 CF Entries Dim. Overview
 {
   OBJECT-PROPERTIES
@@ -9,7 +10,7 @@ OBJECT Page 860 CF Entries Dim. Overview
   PROPERTIES
   {
     CaptionML=[ENU=CF Forcst. Entries Dimension Overview;
-               ESP=Panorama dimensi¢n movs. previsi¢n CONF];
+               ESP=Panorama dimensiÂ¢n movs. previsiÂ¢n CONF];
     InsertAllowed=No;
     DeleteAllowed=No;
     ModifyAllowed=No;
@@ -31,7 +32,7 @@ OBJECT Page 860 CF Entries Dim. Overview
                       CaptionML=[ENU=&Show Matrix;
                                  ESP=&Mostrar matriz];
                       ToolTipML=[ENU=View the data overview according to the selected filters and options.;
-                                 ESP=Permite ver un resumen de la informaci¢n en funci¢n de los filtros y las opciones seleccionados.];
+                                 ESP=Permite ver un resumen de la informaciÂ¢n en funciÂ¢n de los filtros y las opciones seleccionados.];
                       ApplicationArea=#Suite;
                       Promoted=Yes;
                       PromotedIsBig=Yes;
@@ -96,7 +97,7 @@ OBJECT Page 860 CF Entries Dim. Overview
                 CaptionML=[ENU=Column Set;
                            ESP=Conjunto de columnas];
                 ToolTipML=[ENU=Specifies the range of values that are displayed in the matrix window, for example, the total period. To change the contents of the field, choose Next Set or Previous Set.;
-                           ESP=Especifica el rango de valores que se muestran en la ventana de la matriz, por ejemplo, el periodo total. Para modificar el contenido de este campo, elija la opci¢n Conjunto siguiente o Conjunto anterior.];
+                           ESP=Especifica el rango de valores que se muestran en la ventana de la matriz, por ejemplo, el periodo total. Para modificar el contenido de este campo, elija la opciÂ¢n Conjunto siguiente o Conjunto anterior.];
                 ApplicationArea=#Suite;
                 SourceExpr=MATRIX_CaptionRange;
                 Editable=FALSE }
